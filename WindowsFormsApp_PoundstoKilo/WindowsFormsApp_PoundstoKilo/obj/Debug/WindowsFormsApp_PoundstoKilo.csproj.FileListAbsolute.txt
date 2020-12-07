@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\bin\Debug\WindowsFormsApp_PoundstoKilo.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\bin\Debug\WindowsFormsApp_PoundstoKilo.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\bin\Debug\WindowsFormsApp_PoundstoKilo.pdb
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_PoundstoKilo\WindowsFormsApp_PoundstoKilo\obj\Debug\WindowsFormsApp_PoundstoKilo.pdb
