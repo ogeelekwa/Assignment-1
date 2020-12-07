@@ -1,0 +1,10 @@
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csprojAssemblyReference.cache
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.Form1.resources
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.Properties.Resources.resources
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csproj.GenerateResource.cache
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csproj.CoreCompileInputs.cache
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.exe.config
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.exe
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.pdb
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.exe
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.pdb
