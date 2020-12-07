@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\bin\Debug\WindowsFormsApp_BMI.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\bin\Debug\WindowsFormsApp_BMI.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\bin\Debug\WindowsFormsApp_BMI.pdb
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_BMI\WindowsFormsApp_BMI\obj\Debug\WindowsFormsApp_BMI.pdb
