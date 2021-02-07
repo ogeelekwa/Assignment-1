@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.pdb
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.pdb
